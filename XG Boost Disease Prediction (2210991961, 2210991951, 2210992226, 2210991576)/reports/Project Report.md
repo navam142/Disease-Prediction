@@ -186,5 +186,3 @@ The project successfully demonstrates the application of machine learning in mul
 6. UCI Machine Learning Repository. https://archive.ics.uci.edu/ml/index.php
 
 ---
-
-*This report was generated as part of the Disease Prediction project. For code and datasets, refer to the project repository.*
